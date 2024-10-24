@@ -1,17 +1,30 @@
-.right-div{
-  height:100%;position:fixed;width: 30%;
+.right-container{
+  height:100%;position:fixed;width: 20%;
   left: 0;
   display: flex;
-  background-color: blue;
+  background-color: rgb(255, 255, 255);
   
 }
 
-.left-div{
-  height:100%;position:fixed;width: 70%;
+.left-container{
+  height:100%;position:fixed;width: 80%;
   overflow: hidden;
   overflow-x: scroll;
   right: 0;
   display: flex;
   background-color: brown;
  
+}
+.Pro-Manage{
+display:flex;
+flex-direction: row; 
+justify-content: center;
+height: 4.5rem;font-size:large;
+width: 100%;
+font-weight: 700;
+line-height: 5rem;
+}
+
+.logo{
+  line-height: 5.9rem;
 }
