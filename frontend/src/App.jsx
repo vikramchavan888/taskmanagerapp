@@ -9,8 +9,8 @@ function App() {
   return (
     <>
       <div>
-       
-      <h1>Vite + React</h1>
+      <div className='right-div'></div>
+      <div className='left-div'></div>
       </div>
     </>
   )
