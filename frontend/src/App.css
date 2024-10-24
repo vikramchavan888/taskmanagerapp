@@ -5,11 +5,9 @@
   flex-direction: column;
   background-color: rgb(255, 255, 255);
 }
-.main{
-  display: flex;flex-direction:row;
-}
+
 .left-container{
-  height:100%;position:fixed;width: 79%;
+  height:100%;position:fixed;width: 79.88%;
   overflow: hidden;
   overflow-x: scroll;
   right: 0;
@@ -57,7 +55,7 @@ font-weight: 500;
 line-height: 5rem;
 }
 
-.divider{  height:100%;width: 0.15%;background-color: #4391ED1A;}
+
 .Item:hover{background-color: #0770e91a;
   ;}
 
